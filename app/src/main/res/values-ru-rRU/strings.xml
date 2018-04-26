@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Галерея</string>
+    <string name="full_picture_view">Полное изображение</string>
+    <string name="photo">Фото</string>
+    <string name="share">Поделиться</string>
+</resources>

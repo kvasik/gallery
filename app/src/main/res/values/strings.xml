@@ -2,5 +2,5 @@
     <string name="app_name">Gallery</string>
     <string name="full_picture_view">Full picture view</string>
     <string name="photo">Photo</string>
-    <string name="share">Поделиться</string>
+    <string name="share">Share</string>
 </resources>
